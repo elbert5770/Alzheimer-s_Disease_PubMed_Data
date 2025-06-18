@@ -1,0 +1,45 @@
+PubMed XML File Summary
+==============================
+
+Files found: 36
+Files missing: 0
+Total articles: 3590
+
+Existing files:
+--------------------
+pubmed_0_to_99.xml: 91 articles
+pubmed_100_to_199.xml: 100 articles
+pubmed_200_to_299.xml: 100 articles
+pubmed_300_to_399.xml: 100 articles
+pubmed_400_to_499.xml: 100 articles
+pubmed_500_to_599.xml: 100 articles
+pubmed_600_to_699.xml: 100 articles
+pubmed_700_to_799.xml: 100 articles
+pubmed_800_to_899.xml: 100 articles
+pubmed_900_to_999.xml: 100 articles
+pubmed_1000_to_1099.xml: 100 articles
+pubmed_1100_to_1199.xml: 100 articles
+pubmed_1200_to_1299.xml: 100 articles
+pubmed_1300_to_1399.xml: 100 articles
+pubmed_1400_to_1499.xml: 100 articles
+pubmed_1500_to_1599.xml: 100 articles
+pubmed_1600_to_1699.xml: 100 articles
+pubmed_1700_to_1799.xml: 100 articles
+pubmed_1800_to_1899.xml: 100 articles
+pubmed_1900_to_1999.xml: 100 articles
+pubmed_2000_to_2099.xml: 100 articles
+pubmed_2100_to_2199.xml: 100 articles
+pubmed_2200_to_2299.xml: 100 articles
+pubmed_2300_to_2399.xml: 99 articles
+pubmed_2400_to_2499.xml: 100 articles
+pubmed_2500_to_2599.xml: 100 articles
+pubmed_2600_to_2699.xml: 100 articles
+pubmed_2700_to_2799.xml: 100 articles
+pubmed_2800_to_2899.xml: 100 articles
+pubmed_2900_to_2999.xml: 100 articles
+pubmed_3000_to_3099.xml: 100 articles
+pubmed_3100_to_3199.xml: 100 articles
+pubmed_3200_to_3299.xml: 100 articles
+pubmed_3300_to_3399.xml: 100 articles
+pubmed_3400_to_3499.xml: 100 articles
+pubmed_3500_to_3599.xml: 100 articles
